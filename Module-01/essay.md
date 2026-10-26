@@ -203,4 +203,4 @@ SA сформулирует измеримые требования к прои�
 Таким образом, отличаются не только сроки подготовки требований, но и ритм работы аналитика. При этом в любой модели требования должны быть **понятными, согласованными, обоснованными и проверяемыми**.
 
 ##
-**Источники для теоретических понятий:** [IIBA](https://www.iiba.org/knowledgehub/the-business-analysis-standard/) · [Scrum Guide](https://scrumguides.org/scrum-guide.html) · [Agile Manifesto](https://agilemanifesto.org/) · [Martin Fowler, Is Design Dead?](https://martinfowler.com/articles/designDead.html)
+**Источники:** [IIBA](https://www.iiba.org/knowledgehub/the-business-analysis-standard/) · [Scrum Guide](https://scrumguides.org/scrum-guide.html) · [Agile Manifesto](https://agilemanifesto.org/) · [Martin Fowler, Is Design Dead?](https://martinfowler.com/articles/designDead.html)
